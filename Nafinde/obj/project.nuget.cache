@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sj16xA2MXZtbJfDgT1iJ3gif7y4FT5c2IbO29WX/C58J7PZ306myUbJge7pSzKSbWf+1/zFlwqLxb9mO0qagTA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Project\\Nafinde\\Nafinde\\Nafinde.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\valer\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

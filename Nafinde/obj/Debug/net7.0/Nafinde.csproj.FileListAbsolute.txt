@@ -10,9 +10,10 @@ D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.GeneratedMSBuildEdito
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.AssemblyInfoInputs.cache
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.AssemblyInfo.cs
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.csproj.CoreCompileInputs.cache
-D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.csproj.CopyComplete
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.dll
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\refint\Nafinde.dll
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.pdb
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.genruntimeconfig.cache
 D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\ref\Nafinde.dll
+D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.sourcelink.json
+D:\Visual Project\Nafinde\Nafinde\obj\Debug\net7.0\Nafinde.csproj.Up2Date

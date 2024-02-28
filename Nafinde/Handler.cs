@@ -137,8 +137,13 @@ namespace Nafinde
             return inUserIDFile;
         }
 
-        public static Task Error(ITelegramBotClient arg1, Exception arg2, CancellationToken arg3)
-        { throw new NotImplementedException(); }
+        public static Task Error(ITelegramBotClient arg1, Exception exception, CancellationToken arg3)
+        {
+            DateTime currentTime = DateTime.Now;
+            using (StreamWriter stream = new StreamWriter(PathManager.LogFile, true))
+                stream.WriteLine($"[{currentTime}] {exception.Message}");
+            return Task.CompletedTask;
+        }
     }
 }
 

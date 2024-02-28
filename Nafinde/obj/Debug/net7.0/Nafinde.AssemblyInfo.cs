@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b187c738cf667b6b059b6f90da5c4218f9903a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

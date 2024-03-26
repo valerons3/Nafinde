@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1bb72fbfcc791c1e56846e737b921643c8219c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nafinde")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

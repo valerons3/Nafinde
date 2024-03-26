@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.IO;
 using System.Reflection;
+using System.Text.Json;
 using Telegram.Bot;
 using Telegram.Bot.Types;
 
@@ -13,8 +14,10 @@ public class Program
     public static TelegramBotClient BotClient;
     public static void Main(string[] args)
     {
-        using (StreamReader reader = new StreamReader(PathManager.PathBotToken))
-            BotToken = reader.ReadToEnd();
+        using (FileStream fs = new FileStream(PathManager.PathBotToken, FileMode.Open)) {
+            BotToken = JsonSerializer.Deserialize<string>(fs);
+        }
+
         BotClient = new TelegramBotClient(BotToken);
         BotClient.StartReceiving(Handler.Update, Handler.Error);
         Console.ReadLine();

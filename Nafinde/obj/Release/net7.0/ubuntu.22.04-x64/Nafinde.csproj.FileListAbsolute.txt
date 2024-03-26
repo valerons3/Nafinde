@@ -192,9 +192,10 @@ D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.Ge
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.AssemblyInfoInputs.cache
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.AssemblyInfo.cs
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.csproj.CoreCompileInputs.cache
-D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.csproj.CopyComplete
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.dll
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\refint\Nafinde.dll
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.pdb
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.genruntimeconfig.cache
 D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\ref\Nafinde.dll
+D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.sourcelink.json
+D:\Visual Project\Nafinde\Nafinde\obj\Release\net7.0\ubuntu.22.04-x64\Nafinde.csproj.Up2Date
